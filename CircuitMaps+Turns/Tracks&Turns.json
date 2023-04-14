@@ -129,7 +129,27 @@
         },
         {
             "RaceName":"Spanish GP",
-            "TrackName":"Circuit de Catalunya"
+            "TrackName":"Circuit de Catalunya",
+            "TurnsFromFinishLine":{
+                "T1":"120",
+                "T2":"268",
+                "T3":"474",
+                "T4":"655",
+                "T5":"821",
+                "T6":"1000",
+                "T7":"1181",
+                "T8":"1319",
+                "T9":"1471",
+                "T10":"1660",
+                "T11":"1798",
+                "T12":"1977",
+                "T13":"2170",
+                "T14":"2345",
+                "T15":"2514",
+                "T16":"2659",
+                "T17":"2834",
+                "T18":"3000"
+            }
         },
         {
             "RaceName":"Canadian GP",
