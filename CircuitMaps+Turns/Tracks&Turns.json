@@ -2,7 +2,29 @@
     "Tracks":[
         {
             "RaceName":"Bahrain GP",
-            "TrackName":"Bahrain International Circuit"
+            "TrackName":"Bahrain International Circuit",
+            "TurnsFromFinishLine":{
+                "T1":"339",
+                "T2":"874",
+                "T3":"1234",
+                "T4":"1581",
+                "T5":"1858",
+                "T6":"2096",
+                "T7":"2276",
+                "T8":"2481",
+                "T9":"2738",
+                "T10":"2940",
+                "T11":"3132",
+                "T12":"3292",
+                "T13":"3471",
+                "T14":"3634",
+                "T15":"3828",
+                "T16":"4187",
+                "T17":"4365",
+                "T18":"4549",
+                "T19":"4758",
+                "T20":"4937"
+            }
         },
         {
             "RaceName":"Saudi Arabian GP",
@@ -10,10 +32,7 @@
         },
         {
             "RaceName":"Australian GP",
-            "TrackName":"Albert Park",
-            "TurnsFromFinishLine":{
-                "T1":"150m"
-            }
+            "TrackName":"Albert Park"
         },
         {
             "RaceName":"Azerbaijan GP",
