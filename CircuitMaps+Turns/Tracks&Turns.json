@@ -1,0 +1,99 @@
+{
+    "Tracks":[
+        {
+            "RaceName":"Bahrain GP",
+            "TrackName":"Bahrain International Circuit"
+        },
+        {
+            "RaceName":"Saudi Arabian GP",
+            "TrackName":"Jeddah Corniche Circuit"
+        },
+        {
+            "RaceName":"Australian GP",
+            "TrackName":"Albert Park",
+            "TurnsFromFinishLine":{
+                "T1":"150m"
+            }
+        },
+        {
+            "RaceName":"Azerbaijan GP",
+            "TrackName":"Baku City Circuit"
+        },
+        {
+            "RaceName":"Miami",
+            "TrackName":"Miami International Autodrome"
+        },
+        {
+            "RaceName":"Dell'Emilia-Romagna GP",
+            "TrackName":"Imola"
+        },
+        {
+            "RaceName":"Monaco GP",
+            "TrackName":"Monaco"
+        },
+        {
+            "RaceName":"Spanish GP",
+            "TrackName":"Circuit de Catalunya"
+        },
+        {
+            "RaceName":"Canadian GP",
+            "TrackName":"Circuit Gilles Villeneuve"
+        },
+        {
+            "RaceName":"Austrian GP",
+            "TrackName":"Red Bull Ring"
+        },
+        {
+            "RaceName":"British GP",
+            "TrackName":"Silverstone"
+        },
+        {
+            "RaceName":"Hungarian GP",
+            "TrackName":"Hungaroring"
+        },
+        {
+            "RaceName":"Belgian GP",
+            "TrackName":"Spa-Francorchamps"
+        },
+        {
+            "RaceName":"Dutch GP",
+            "TrackName":"Zandvoort"
+        },
+        {
+            "RaceName":"Italian GP",
+            "TrackName":"Monza"
+        },
+        {
+            "RaceName":"Singapore GP",
+            "TrackName":"Singapore"
+        },
+        {
+            "RaceName":"Japanese GP",
+            "TrackName":"Suzuka"
+        },
+        {
+            "RaceName":"Qatar GP",
+            "TrackName":"Losail International Circuit"
+        },
+        {
+            "RaceName":"U.S. GP",
+            "TrackName":"Circuit of the Americas"
+        },
+        {
+            "RaceName":"Mexican GP",
+            "TrackName":"Autodromo Hermanos Rodriguez"
+        },
+        {
+            "RaceName":"SÃO PAULO GP",
+            "TrackName":"Interlagos"
+        },
+        {
+            "RaceName":"Las Vegas GP",
+            "TrackName":"Las Vegas Street Circuit"
+        },
+        {
+            "RaceName":"Abu Dhabi GP",
+            "TrackName":"Yas Marina"
+        }
+    ]
+}
