@@ -32,7 +32,25 @@
         },
         {
             "RaceName":"Australian GP",
-            "TrackName":"Albert Park"
+            "TrackName":"Albert Park",
+            "TurnsFromFinishLine":{
+                "T1":"150",
+                "T2":"452",
+                "T3":"884",
+                "T4":"1181",
+                "T5":"1604",
+                "T6":"1874",
+                "T7":"2104",
+                "T8":"2445",
+                "T9":"2712",
+                "T10":"2989",
+                "T11":"3328",
+                "T12":"3608",
+                "T13":"3861",
+                "T14":"4197",
+                "T15":"4465",
+                "T16":"4888"
+            }
         },
         {
             "RaceName":"Azerbaijan GP",
