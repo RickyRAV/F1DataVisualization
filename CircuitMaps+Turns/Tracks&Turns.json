@@ -110,7 +110,22 @@
         },
         {
             "RaceName":"Monaco GP",
-            "TrackName":"Monaco"
+            "TrackName":"Monaco",
+            "TurnsFromFinishLine":{
+                "T1":"135",
+                "T2":"354",
+                "T3":"593",
+                "T4":"771",
+                "T5":"936",
+                "T6":"1146",
+                "T7":"1266",
+                "T8":"1423",
+                "T9":"1578",
+                "T10":"1742",
+                "T11":"1863",
+                "T12":"2015",
+                "T13":"2074"
+            }
         },
         {
             "RaceName":"Spanish GP",
