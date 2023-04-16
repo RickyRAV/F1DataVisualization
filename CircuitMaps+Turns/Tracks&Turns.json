@@ -377,7 +377,26 @@
         },
         {
             "RaceName":"Mexican GP",
-            "TrackName":"Autodromo Hermanos Rodriguez"
+            "TrackName":"Autodromo Hermanos Rodriguez",
+            "TurnsFromFinishLine":{
+                "T1":"900",
+                "T2":"1201",
+                "T3":"1385",
+                "T4":"1595",
+                "T5":"1751",
+                "T6":"1924",
+                "T7":"2086",
+                "T8":"2252",
+                "T9":"2410",
+                "T10":"2574",
+                "T11":"2761",
+                "T12":"2913",
+                "T13":"3086",
+                "T14":"3248",
+                "T15":"3412",
+                "T16":"3608",
+                "T17":"3752"
+            }
         },
         {
             "RaceName":"SÃO PAULO GP",
