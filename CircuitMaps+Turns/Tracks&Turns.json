@@ -176,7 +176,19 @@
         },
         {
             "RaceName":"Austrian GP",
-            "TrackName":"Red Bull Ring"
+            "TrackName":"Red Bull Ring",
+            "TurnsFromFinishLine":{
+                "T1":"214",
+                "T2":"358",
+                "T3":"516",
+                "T4":"691",
+                "T5":"827",
+                "T6":"972",
+                "T7":"1105",
+                "T8":"1287",
+                "T9":"1448",
+                "T10":"1586"
+            }
         },
         {
             "RaceName":"British GP",
