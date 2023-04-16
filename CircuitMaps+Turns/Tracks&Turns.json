@@ -215,7 +215,23 @@
         },
         {
             "RaceName":"Hungarian GP",
-            "TrackName":"Hungaroring"
+            "TrackName":"Hungaroring",
+            "TurnsFromFinishLine":{
+                "T1":"231",
+                "T2":"356",
+                "T3":"542",
+                "T4":"702",
+                "T5":"828",
+                "T6":"974",
+                "T7":"1107",
+                "T8":"1256",
+                "T9":"1415",
+                "T10":"1557",
+                "T11":"1685",
+                "T12":"1805",
+                "T13":"1928",
+                "T14":"2052"
+            }
         },
         {
             "RaceName":"Belgian GP",
