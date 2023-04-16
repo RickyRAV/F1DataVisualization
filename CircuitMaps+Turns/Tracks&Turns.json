@@ -239,7 +239,23 @@
         },
         {
             "RaceName":"Dutch GP",
-            "TrackName":"Zandvoort"
+            "TrackName":"Zandvoort",
+            "TurnsFromFinishLine":{
+                "T1":"270",
+                "T2":"590",
+                "T3":"723",
+                "T4":"854",
+                "T5":"1043",
+                "T6":"1220",
+                "T7":"1280",
+                "T8":"1356",
+                "T9":"1442",
+                "T10":"1568",
+                "T11":"1689",
+                "T12":"1762",
+                "T13":"1854",
+                "T14":"1940"
+            }
         },
         {
             "RaceName":"Italian GP",
