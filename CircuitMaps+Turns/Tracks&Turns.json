@@ -153,7 +153,26 @@
         },
         {
             "RaceName":"Canadian GP",
-            "TrackName":"Circuit Gilles Villeneuve"
+            "TrackName":"Circuit Gilles Villeneuve",
+            "TurnsFromFinishLine":{
+                "T1":"160",
+                "T2":"330",
+                "T3":"555",
+                "T4":"710",
+                "T5":"850",
+                "T6":"1105",
+                "T7":"1235",
+                "T8":"1435",
+                "T9":"1600",
+                "T10":"1765",
+                "T11":"1905",
+                "T12":"2110",
+                "T13":"2280",
+                "T14":"2445",
+                "T15":"2570",
+                "T16":"2805",
+                "T17":"2955"
+            }
         },
         {
             "RaceName":"Austrian GP",
