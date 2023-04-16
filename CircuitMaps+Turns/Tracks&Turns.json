@@ -400,7 +400,24 @@
         },
         {
             "RaceName":"SÃO PAULO GP",
-            "TrackName":"Interlagos"
+            "TrackName":"Interlagos",
+            "TurnsFromFinishLine":{
+                "T1":"300",
+                "T2":"530",
+                "T3":"742",
+                "T4":"899",
+                "T5":"1035",
+                "T6":"1140",
+                "T7":"1274",
+                "T8":"1449",
+                "T9":"1604",
+                "T10":"1710",
+                "T11":"1835",
+                "T12":"1970",
+                "T13":"2117",
+                "T14":"2290",
+                "T15":"2477"
+            }
         },
         {
             "RaceName":"Las Vegas GP",
