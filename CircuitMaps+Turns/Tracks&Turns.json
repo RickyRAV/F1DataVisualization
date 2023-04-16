@@ -329,7 +329,25 @@
         },
         {
             "RaceName":"Qatar GP",
-            "TrackName":"Losail International Circuit"
+            "TrackName":"Losail International Circuit",
+            "TurnsFromFinishLine":{
+                "T1":"380",
+                "T2":"807",
+                "T3":"1229",
+                "T4":"1478",
+                "T5":"1696",
+                "T6":"1851",
+                "T7":"2051",
+                "T8":"2203",
+                "T9":"2354",
+                "T10":"2565",
+                "T11":"2697",
+                "T12":"2832",
+                "T13":"3026",
+                "T14":"3178",
+                "T15":"3309",
+                "T16":"3441"
+            }
         },
         {
             "RaceName":"U.S. GP",
