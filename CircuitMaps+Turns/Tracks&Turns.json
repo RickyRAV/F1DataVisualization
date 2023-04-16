@@ -259,7 +259,20 @@
         },
         {
             "RaceName":"Italian GP",
-            "TrackName":"Monza"
+            "TrackName":"Monza",
+            "TurnsFromFinishLine":{
+                "T1":"115",
+                "T2":"326",
+                "T3":"617",
+                "T4":"990",
+                "T5":"1131",
+                "T6":"1342",
+                "T7":"1626",
+                "T8":"1813",
+                "T9":"1974",
+                "T10":"2037",
+                "T11":"2185"
+            }
         },
         {
             "RaceName":"Singapore GP",
