@@ -1,6 +1,9 @@
 # F1 Data Visualization
 
 This repository contains various data visualization scripts and resources related to Formula 1 racing.
+![TrackEvolution](FirstVSLastTenLaps.png)
+![ViolinVis](Miami2023ViolinTop15.png)
+![Telemetry](2023SaudiArabianGrandPrix-VERIncident.png)
 
 ## Directory Structure
 
