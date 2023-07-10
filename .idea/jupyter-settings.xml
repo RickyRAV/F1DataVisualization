@@ -5,11 +5,19 @@
       <list>
         <JupyterConnectionParameters>
           <option name="authType" value="notebook" />
+<<<<<<< Updated upstream
           <option name="token" value="530e5684f1db5bdc725d464fa3af903e8bbe4a89e72851b7" />
           <option name="urlString" value="http://localhost:8888" />
           <authParams2>
             <map>
               <entry key="token" value="530e5684f1db5bdc725d464fa3af903e8bbe4a89e72851b7" />
+=======
+          <option name="token" value="d1ad00202a32600cc035ced54cc90ee86df3059b1575b2d6" />
+          <option name="urlString" value="http://localhost:8888" />
+          <authParams2>
+            <map>
+              <entry key="token" value="d1ad00202a32600cc035ced54cc90ee86df3059b1575b2d6" />
+>>>>>>> Stashed changes
             </map>
           </authParams2>
         </JupyterConnectionParameters>
@@ -21,11 +29,19 @@
           <value>
             <JupyterConnectionParameters>
               <option name="authType" value="notebook" />
+<<<<<<< Updated upstream
               <option name="token" value="530e5684f1db5bdc725d464fa3af903e8bbe4a89e72851b7" />
               <option name="urlString" value="http://localhost:8888" />
               <authParams2>
                 <map>
                   <entry key="token" value="530e5684f1db5bdc725d464fa3af903e8bbe4a89e72851b7" />
+=======
+              <option name="token" value="d1ad00202a32600cc035ced54cc90ee86df3059b1575b2d6" />
+              <option name="urlString" value="http://localhost:8888" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="d1ad00202a32600cc035ced54cc90ee86df3059b1575b2d6" />
+>>>>>>> Stashed changes
                 </map>
               </authParams2>
             </JupyterConnectionParameters>
